@@ -3,6 +3,8 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.11.1.
 
+I followed this tutorial : http://yeoman.io/codelab.html
+
 ## Install modules and components
 
 Run `npm install` followed by `bower install`
